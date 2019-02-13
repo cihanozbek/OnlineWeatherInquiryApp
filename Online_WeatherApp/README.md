@@ -1,14 +1,8 @@
 
-## 1. EDIT THESE FILES
-- src/environments `with your firebase credentials`
-- src/app/shared/shared.module.ts **line 11** `with your google maps API key`
-- src/app/weather/weather.service.ts **line 13** `with your openweathermap.org API key` 
 
-## 2. INSTALL DEPENDENCIES
-- type `yarn` or `npm i`
+##  INSTALL DEPENDENCIES
+npm install
 
-## 3. RUN
-- type `ng s -o`
 
 ## Development server
 
